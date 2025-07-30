@@ -98,4 +98,4 @@
         AddTextComponentString(tostring(totalPlayers))
         DrawText(0.89, 0.16)
     end
-    w
+    
